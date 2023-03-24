@@ -1,0 +1,1 @@
+Pair programming exercise for Hackbright Academy, coded with Tatiana Cherne.
